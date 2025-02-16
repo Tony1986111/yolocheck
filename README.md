@@ -55,9 +55,13 @@ YOLO Check is an advanced data analysis tool designed to track, query, and aggre
   Create a `.env` file in the project root (ensure this file is listed in `.gitignore` to avoid committing sensitive data). Example content:
 
   EMAIL_USER=your_email@example.com
+  
   EMAIL_PASS=your_email_password_or_app_specific_password
+  
   DB_HOST=your_database_host
+  
   DB_USER=your_database_username
+  
   DB_PASS=your_database_password
   
   Use a package like [dotenv](https://www.npmjs.com/package/dotenv) to load these variables in your code.
