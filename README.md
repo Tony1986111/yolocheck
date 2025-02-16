@@ -85,7 +85,7 @@ YOLO Check is an advanced data analysis tool designed to track, query, and aggre
 ## Usage Instructions
 
 * **User Registration & Login:**
-  Use the frontend to register and log in. Registration verifies that the wallet address and subscription status are valid.
+  Use the frontend to register and log in. The whole website is hosted and can be found at https://yolocheck.xyz/. Registration verifies that the wallet address and subscription status are valid.
 * **Wallet Connection:**
   Click the “Connect Wallet” button to connect via MetaMask. The system will check whether the user is already registered and subscribed.
 * **Data Querying:**
