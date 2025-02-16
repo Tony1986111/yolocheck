@@ -59,6 +59,7 @@ YOLO Check is an advanced data analysis tool designed to track, query, and aggre
   DB_HOST=your_database_host
   DB_USER=your_database_username
   DB_PASS=your_database_password
+  
   Use a package like [dotenv](https://www.npmjs.com/package/dotenv) to load these variables in your code.
 * **Initialize the Database:**
   Create the required tables for users, subscriptions, and transactions. Refer to your project documentation or design your own SQL schema as needed.
