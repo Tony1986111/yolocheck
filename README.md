@@ -69,7 +69,7 @@ YOLO Check is an advanced data analysis tool designed to track, query, and aggre
   ```
   The server will run on port 3000 by default. You can view the website at `http://localhost:3000`.
 
-  ## Usage Instructions
+## Usage Instructions
 
 
   * **User Registration & Login:**
@@ -81,14 +81,14 @@ YOLO Check is an advanced data analysis tool designed to track, query, and aggre
   * **Subscription Payment:**
     Click “Subscribe” and choose a plan. After paying in ETH, the system updates your subscription status.
 
-  ## Important Notes
+## Important Notes
 
   * **Sensitive Data:**
     Always store sensitive information (e.g., email passwords, database credentials) in the `.env` file. Never hardcode such data in your source code.
   * **Customization:**
     Feel free to extend and modify the project as needed. The current code is provided as a starting point for further enhancements.
 
-  ## License
+## License
 
   This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 *
