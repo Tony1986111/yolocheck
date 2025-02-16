@@ -4,10 +4,14 @@ YOLO Check is an advanced data analysis tool designed to track, query, and aggre
 
 ## Features
 
-- **On-Chain Data Query**Connects to the Blast Network via RPC to fetch the latest round data for gambling games. It calculates winnings, bets, fees, and net results by aggregating various on-chain data from each round (see `yolocheck_server.js`).
-- **User Account and Subscription Management**Supports user registration, login, password resets, and subscription status checks based on wallet addresses. Only subscribed users can access certain data (see `yolocheck_server.js`).
-- **Wallet Connection and Payment**Integrates with MetaMask to allow users to connect their wallets. Users can authenticate and pay subscription fees with ETH, triggering blockchain transactions and smart contract interactions (see `yolocheck.js`).
-- **Frontend Display and Interaction**Uses HTML, CSS, and JavaScript to build a responsive website that displays various data panels, supports dark mode switching, smooth scrolling, and modal dialogs.
+- **On-Chain Data Query**
+  Connects to the Blast Network via RPC to fetch the latest round data for gambling games. It calculates winnings, bets, fees, and net results by aggregating various on-chain data from each round (see `yolocheck_server.js`).
+- **User Account and Subscription Management**
+  Supports user registration, login, password resets, and subscription status checks based on wallet addresses. Only subscribed users can access certain data (see `yolocheck_server.js`).
+- **Wallet Connection and Payment**
+  Integrates with MetaMask to allow users to connect their wallets. Users can authenticate and pay subscription fees with ETH, triggering blockchain transactions and smart contract interactions (see `yolocheck.js`).
+- **Frontend Display and Interaction**
+  Uses HTML, CSS, and JavaScript to build a responsive website that displays various data panels, supports dark mode switching, smooth scrolling, and modal dialogs.
 
   - HTML: `yolocheck.html`
   - CSS: `yolocheck.css`
